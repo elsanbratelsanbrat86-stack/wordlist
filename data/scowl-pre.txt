@@ -5375,8 +5375,6 @@
 
 85 [ukacd]: adward
 
-50 [+]: adware
-
 80 [ospdadd]: adwoman <n>: adwomen
 
 70 [moby] 80 [enable] 85 [ukacd]: adynamia <n>
@@ -12619,9 +12617,9 @@
 
 80 [enable]: aminity <n>: aminities
 
-50 [+] 70 [moby] 80 [enable]: amino <n>
+70 [moby] 80 [enable]: amino <n>
 
-50 [+] 70 [moby] 80 [enable]: amino <aj>
+70 [moby] 80 [enable]: amino <aj>
 
 80 [moby]: amino <pre>
 
@@ -17130,10 +17128,10 @@
 
 80 [enable]: antidiscrimination
 
-70 [+] 85 [ukacd]: antidisestablishmentarian
+85 [ukacd]: antidisestablishmentarian
 
-70 [+] [moby] 85 [ukacd]: antidisestablishmentarianism <n>
-70 [+] [moby]: - <n>: antidisestablishmentarianisms
+70 [moby] 85 [ukacd]: antidisestablishmentarianism <n>
+70 [moby]: - <n>: antidisestablishmentarianisms
 
 80 [2dicts] 85 [ukacd]: antidiuretic <n>
 80 [2dicts]: - <n>: antidiuretics
@@ -18322,7 +18320,7 @@
 
 50 [12dicts] 70 [5desk] 80 [enable] 85 [ukacd]: antiviral <aj>
 
-50 [+] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: antivirus
+70 [3of6] [5desk] 80 [enable] 85 [ukacd]: antivirus
 
 80 [enable]: antivitamin <n>: antivitamins
 
@@ -18742,10 +18740,10 @@
 
 70 [5desk]: apatosaur <n>: apatosaur's
 
-50 [+] 85 [ukacd]: Apatosaurus </upper?>
-
 70 [5desk] 80 [enable]: apatosaurus <n>: apatosauruses
 70 [5desk]: - <n>: apatosaurus's
+
+85 [ukacd]: Apatosaurus </upper?>
 
 85 [ukacd]: apay <n>: apays
 
@@ -24219,8 +24217,6 @@
 
 80 [enable] 85 [ukacd]: - <m>: -, -, asperges
 85 [ukacd]: asperge <m>: asperged, asperging, -
-
-50 [+]: Asperger <n/upper?>: Asperger's
 
 85 [ukacd]: asperger <n>: aspergers
 
@@ -30375,7 +30371,7 @@
 50 [12dicts] 70 [5desk] [moby] 80 [enable] 85 [ukacd]: backstop <v>: -, -, backstops
 50 [12dicts] 70 [5desk] [moby] 80 [enable]: - <v>: backstopped, backstopping, -
 
-50 [+] 70 [3of6]: backstory <n>: backstories
+70 [3of6]: backstory <n>: backstories
 
 60 [brif] 70 [3of6] 80 [enable]: backstreet <n>: backstreets
 
@@ -35203,8 +35199,6 @@
 70 [5desk] 80 [enable] 85 [ukacd]: bazar <n>: bazars
 
 85 [ukacd]: bazazz
-
-50 [+]: bazillion <n>: bazillions
 
 80 [moby]: Bazine <n/place>
 
@@ -41576,7 +41570,7 @@
 
 70 [5desk] 80 [enable] 85 [ukacd]: biomechanics
 
-50 [+] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: biomedical <aj>
+70 [3of6] [5desk] 80 [enable] 85 [ukacd]: biomedical <aj>
 
 70 [5desk] [moby] 80 [enable] 85 [ukacd]: biomedicine <n>
 70 [5desk] [moby]: - <n>: biomedicine's
@@ -42434,7 +42428,6 @@
 40 [3esl] 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: bitchy <aj>: bitchier, bitchiest
 
 50 [+] 80 [3of6]: bitcoin <n>: bitcoins
-50 [+]: - <n>: bitcoin's
 
 35 [12dicts] [ukfreq] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: bite <n>: bites
 
@@ -44430,13 +44423,11 @@
 50 [name] 60 [12dicts] 70 [5desk] [moby] 85 [ukacd]: Bloemfontein <n/upper>
 50 [name] 60 [12dicts] 70 [5desk] [moby]: - <n/upper>: Bloemfontein's
 
-35 [+] 70 [3of6]: blog <n>: blogs
-35 [+]: - <n>: blog's
+50 [+] 70 [3of6]: blog <n>: blogs
 
-35 [+] 70 [3of6]: blog <v>: blogged, blogging, blogs
+50 [+] 70 [3of6]: blog <v>: blogged, blogging, blogs
 
-35 [+] 70 [3of6]: blogger <n>: bloggers
-35 [+]: - <n>: blogger's
+50 [+] 70 [3of6]: blogger <n>: bloggers
 
 70 [3of6]: blogosphere
 
@@ -48328,8 +48319,7 @@
 
 80 [moby]: Botkins <n/place>
 
-50 [+] 80 [3of6]: botnet <n>: botnets
-50 [+]: - <n>: botnet's
+80 [3of6]: botnet <n>: botnets
 
 80 [ospdadd]: boto <n>: botos
 
@@ -51167,8 +51157,6 @@
 
 80 [moby]: Brewton <n/place>
 
-50 [+]: Brexit </upper?>
-
 70 [5desk]: Breyer </upper?>
 
 50 [name] 60 [12dicts] 70 [5desk] [moby] 85 [ukacd]: Brezhnev <n/upper>
@@ -52554,8 +52542,6 @@
 50 [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: brontosaurus <n>
 50 [12dicts] 60 [brif] 70 [3of6] [5desk]: - <n>: -, brontosaurus's, (brontosauruses' | ~: brontosauri's)
 50 [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] [plurals] 85 [ukacd]: - <n>: (brontosauruses | ~: brontosauri)
-
-50 [+]: Brontosaurus </upper?>
 
 80 [moby]: Bronwood <n/place>
 
@@ -54271,8 +54257,6 @@
 35 [ukfreq] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: built <aj>
 
 35 [12dicts] 40 [3esl] 70 [3of6] [moby] 85 [ukacd]: built-in <aj>
-
-50 [+]: builtin
 
 50 [12dicts] 70 [3of6] [moby] 85 [ukacd]: built-up <aj>
 
@@ -57788,7 +57772,7 @@
 70 [5desk] 80 [enable] 85 [ukacd]: caffein <n>
 70 [5desk] 80 [enable]: - <n>: caffeins
 
-50 [+] 70 [3of6] [5desk] 80 [2dicts] [enable] 85 [ukacd]: caffeinated
+70 [3of6] [5desk] 80 [2dicts] [enable] 85 [ukacd]: caffeinated
 
 35 [12dicts] [ukfreq] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: caffeine <n>
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby]: - <n>: caffeine's
@@ -74114,15 +74098,14 @@
 35 [12dicts] [ukfreq] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: chunk <n>: chunks
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby]: - <n>: chunk's
 
-60 [+] 80 [enable] 85 [ukacd]: - <v>: chunked, chunking, -
-80 [enable] 85 [ukacd]: -chunk <v>: -, -, chunks
+80 [enable] 85 [ukacd]: -chunk <v>: chunked, chunking, chunks
 
 80 [enable]: chunkily
 
 50 [12dicts] 70 [5desk] 80 [2dicts] 85 [ukacd]: chunkiness <n>
 80 [12dicts] [2dicts] [5desk]: - <n>: chunkinesses~
 
-60 [+] 80 [enable] 85 [ukacd]: chunking <n>
+80 [enable] 85 [ukacd]: chunking <n>
 
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: chunky <aj>: chunkier, chunkiest
 
@@ -75324,7 +75307,7 @@
 
 70 [moby] 80 [enable] 85 [ukacd]: cirsoid
 
-50 [+] 80 [enable]: cis
+80 [enable]: cis
 
 80 [moby]: cis <pre>
 
@@ -75348,8 +75331,6 @@
 85 [ukacd]: ciseleur <n>: ciseleurs
 
 85 [ukacd]: ciselure <n>: ciselures
-
-50 [+]: cisgender
 
 85 [ukacd]: Ciskei </upper?>
 
@@ -77224,9 +77205,7 @@
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: - <v>: clicked, -, clicks
 35 [12dicts] 40 [3esl] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: - <v>: -, clicking, -
 
-50 [+] 70 [3of6]: clickable
-
-50 [+]: clickbait
+70 [3of6]: clickable
 
 70 [moby]: click beetle <n>: click beetle's
 
@@ -83094,7 +83073,7 @@
 60 [12dicts] 70 [5desk] [moby] 80 [enable] 85 [ukacd]: committeewoman <n>: committeewomen
 60 [12dicts] 70 [5desk] [moby]: - <n>: -, committeewoman's, committeewomen's
 
-60 [+] 80 [2dicts]: committer <n>: committers
+80 [2dicts]: committer <n>: committers
 
 70 [moby] 80 [enable] 85 [ukacd]: commix <v>: commixed, commixing, commixes
 
@@ -91043,8 +91022,6 @@
 35 [12dicts] 40 [3esl] 50 [ukfreq] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: coronation <n>
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: - <n>: coronations
 
-50 [+]: coronavirus <n>: coronaviruses, coronavirus's
-
 80 [enable]: coronel <n>: coronels
 
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: coroner <n>: coroners
@@ -92598,7 +92575,7 @@
 
 70 [moby] 80 [enable]: couldst
 
-50 [+] 70 [3of6]: could've <s>
+70 [3of6]: could've <s>
 
 60 [12dicts] 70 [5desk] [moby] 80 [enable]: coulée <n>: coulées # accented
 60 [12dicts] 70 [5desk] [moby] 80 [enable]: _~: coulee <n>: coulees # need-accent
@@ -93946,8 +93923,6 @@
 
 50 [12dicts] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: covey <n>: coveys
 50 [12dicts] 70 [3of6] [5desk] [moby]: - <n>: covey's
-
-50 [+]: COVID </abbr?>
 
 70 [moby] 80 [enable] 85 [ukacd]: covin <n>: covins
 
@@ -103134,8 +103109,6 @@
 
 85 [ukacd]: data set <n>: data sets
 
-50 [+]: datatype
-
 70 [5desk] [moby] 80 [enable]: datcha <n>: datchas
 
 35 [] [12dicts] [ukfreq] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: date <n>
@@ -105673,8 +105646,7 @@
 
 70 [moby] 80 [enable] 85 [ukacd]: decrypt <v>: decrypted, decrypting, decrypts
 
-50 [+] 80 [enable] 85 [ukacd]: decryption <n>
-80 [enable] 85 [ukacd]: - <n>: decryptions-
+80 [enable] 85 [ukacd]: decryption <n>: decryptions
 
 85 [ukacd]: dectet <n>: dectets
 
@@ -105880,8 +105852,6 @@
 70 [3of6] 80 [enable] 85 [ukacd]: deepening <n>
 
 70 [3of6] 80 [enable] 85 [ukacd]: deepening <aj>
-
-50 [+]: deepfake <n>: deepfakes, deepfake's
 
 60 [12dicts] 70 [moby] 85 [ukacd]: deep-freeze <n>: deep-freezes
 
@@ -106288,8 +106258,8 @@
 
 70 [5desk] 80 [enable]: defibrillate <v>: defibrillated, defibrillating, defibrillates
 
-60 [+] 70 [5desk] 80 [enable] 85 [ukacd]: defibrillation <n>
-70 [5desk] 80 [enable]: - <n>: defibrillations-
+70 [5desk] 80 [enable] 85 [ukacd]: defibrillation <n>
+70 [5desk] 80 [enable]: - <n>: defibrillations
 
 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: defibrillator <n>: defibrillators
 
@@ -108546,7 +108516,7 @@
 80 [enable] [ospdadd]: deni <n>
 80 [enable] 85 [ukacd]: - <n>: denies
 
-50 [+] 60 [extra] 70 [5desk] 80 [enable] 85 [ukacd]: deniability <n>
+60 [extra] 70 [5desk] 80 [enable] 85 [ukacd]: deniability <n>
 70 [5desk] 80 [enable]: - <n>: deniabilities-
 
 60 [12dicts] [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: deniable <aj>
@@ -111860,7 +111830,7 @@
 
 80 [ospdadd]: dhansak <n>: dhansaks
 
-50 [+] 70 [5desk] [extra] [moby] 80 [enable] 85 [ukacd]: dharma <n>
+70 [5desk] [extra] [moby] 80 [enable] 85 [ukacd]: dharma <n>
 70 [5desk] [moby] 80 [enable] 85 [ukacd]: - <n>: dharmas-
 
 80 [enable]: dharmic
@@ -122447,7 +122417,7 @@
 
 40 [3esl] 50 [12dicts] 50 hacker 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: download <v>: downloaded, downloading, downloads
 
-50 [+] 70 [3of6] [5desk] 80 [enable]: downloadable
+70 [3of6] [5desk] 80 [enable]: downloadable
 
 85 [ukacd]: downlooked
 
@@ -131761,12 +131731,6 @@
 
 50 [name]: Emacs <n/name?>: Emacs's
 
-35 [+] 60 [12dicts] [brif] 70 [3of6] [5desk] 80 [enable] [ospdadd]: email <n>
-35 [+] 60 [12dicts] [brif] 65 [12dicts] 70 [3of6] [5desk]: - <n>: email's-
-35 [+] 60 [12dicts] 70 [5desk] 80 [enable] [ospdadd]: - <n>: emails
-
-35 [+] 50 hacker 60 [12dicts] [brif] 70 [3of6] [5desk] 80 [enable] [ospdadd]: email <v>: emailed, emailing, emails
-
 40 [3esl] 50 [12dicts] 70 [3of6] 85 [ukacd]: e-mail <n>
 40 [3esl] 50 [12dicts] 70 [3of6]: - <n>: e-mails
 
@@ -131774,6 +131738,11 @@
 40 [3esl] 50 [12dicts] 70 [3of6]: - <v>: e-mailed, e-mailing, e-mails
 
 50 [12dicts]: E-mail </upper?>
+
+60 [12dicts] [brif] 70 [3of6] [5desk] 80 [enable] [ospdadd]: email <n>
+80 [12dicts] [5desk] [enable] [ospdadd]: - <n>: emails~
+
+50 hacker 60 [12dicts] [brif] 70 [3of6] [5desk] 80 [enable] [ospdadd]: email <v>: emailed, emailing, emails
 
 70 [5desk] 80 [enable] 85 [ukacd]: emalangeni
 
@@ -141505,8 +141474,7 @@
 
 85 [ukacd]: -ex <aj>
 
-60 [+] 80 [ospdadd]: exabyte <n>: exabytes
-60 [+]: - <n>: exabyte's
+80 [ospdadd]: exabyte <n>: exabytes
 
 35 [ukfreq] 40 [3esl] 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: - <v>: exacerbated, -, -
 40 [3esl] 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: exacerbate <v>: -, -, exacerbates
@@ -146312,9 +146280,9 @@
 
 60 [12dicts] [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: fandango <n>: (fandangos | ~: fandangoes)
 
-50 [+] 70 [5desk] 80 [enable] 85 [ukacd]: fandom <n>
-50 [+] 70 [5desk]: - <n>: fandom's
-70 [5desk] 80 [enable]: - <n>: fandoms-
+70 [5desk] 80 [enable] 85 [ukacd]: fandom <n>
+70 [5desk]: - <n>: fandom's
+70 [5desk] 80 [enable]: - <n>: fandoms
 
 70 [5desk] [moby] 80 [enable] 85 [ukacd]: fane <n>: fanes
 
@@ -154243,7 +154211,7 @@
 80 [2dicts] 85 [ukacd]: floccillation <n>
 80 [2dicts]: - <n>: floccillations
 
-70 [+] 85 [ukacd]: floccinaucinihilipilification
+85 [ukacd]: floccinaucinihilipilification
 
 85 [stale]: floccing
 
@@ -162553,7 +162521,7 @@
 80 [enable]: functionalistic
 
 35 [ukfreq] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: functionality <n>
-60 [+] 70 [3of6] [5desk] 80 [enable]: - <n>: functionalities-
+70 [3of6] [5desk] 80 [enable]: - <n>: functionalities-
 
 35 [ukfreq] 40 [3esl] 50 [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: functionally <av>
 
@@ -166552,7 +166520,7 @@
 
 50 [name] 70 [5desk] [moby]: Gaziantep <n/name?>: Gaziantep's
 
-50 [+] 70 [3of6] 80 [2dicts] [enable]: gazillion <n>: gazillions
+70 [3of6] 80 [2dicts] [enable]: gazillion <n>: gazillions
 
 80 [ospdadd]: gazingly
 
@@ -169277,11 +169245,9 @@
 80 [enable] 85 [ukacd]: - <n>: gigas
 85 [stale] [ukacd]: giga <n>
 
-50 [+] 80 [enable]: gigabit <n>: gigabits
-50 [+]: - <n>: gigabit's
+80 [enable]: gigabit <n>: gigabits
 
-40 [3esl] 50 [+] [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: gigabyte <n>: gigabytes
-40 [3esl] 50 [+] [12dicts] 60 [brif] 65 [12dicts] [3esl] 70 [3of6] [5desk]: - <n>: gigabyte's-
+40 [3esl] 50 [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: gigabyte <n>: gigabytes
 
 80 [2dicts]: gigacycle <n>: gigacycles
 
@@ -169293,11 +169259,9 @@
 60 [+]: A B C: gigagram <n>: gigagrams
 60 [+]: Bv: gigagramme <n>: gigagrammes
 
-50 [+] 60 [12dicts] 70 [5desk] [moby] 80 [enable] 85 [ukacd]: gigahertz <n>: (gigahertz | -: gigahertzes)
-50 [+] 60 [12dicts] 65 [12dicts] 70 [5desk] [moby]: - <n>: gigahertz's-
+60 [12dicts] 70 [5desk] [moby] 80 [enable] 85 [ukacd]: gigahertz <n>: (gigahertz | -: gigahertzes)
 
 60 [+]: gigajoule <n>: gigajoules
-60 [+] 70 [+]: - <n>: gigajoule's
 
 60 [+]: A Cv: gigameter <n>: gigameters
 60 [+]: B C: gigametre <n>: gigametres
@@ -169323,12 +169287,9 @@
 
 60 [+]: gigapascal <n>: gigapascals
 
-50 [+]: gigapixel <n>: gigapixels, gigapixel's
-
 80 [enable]: gigaton <n>: gigatons
 
-60 [+] 80 [enable] 85 [ukacd]: gigawatt <n>: gigawatts
-60 [+]: - <n>: gigawatt's
+80 [enable] 85 [ukacd]: gigawatt <n>: gigawatts
 
 85 [ukacd]: Giggit </upper?>
 
@@ -169626,10 +169587,10 @@
 
 85 [ukacd]: gimmalled
 
-35 [+] 60 [12dicts] [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: gimme <n>
+60 [12dicts] [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: gimme <n>
 60 [12dicts] 70 [3of6] [5desk] 80 [enable]: - <n>: gimmes
 
-35 [+] 60 [12dicts] [brif] 70 [3of6] 85 [ukacd]: gimme <s>
+60 [12dicts] [brif] 70 [3of6] 85 [ukacd]: gimme <s>
 
 85 [ukacd]: gimmer <n>: gimmers
 
@@ -185568,11 +185529,11 @@
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby]: - <n>: health's
 65 [12dicts] [3esl] 70 [5desk] [moby] 80 [enable] 85 [ukacd]: - <n>: healths-
 
-35 [+] 60 [12dicts] [brif] 70 [3of6] 80 [2dicts] 85 [ukacd]: healthcare <n>
-35 [+] 60 [12dicts] [brif]: - <n>: healthcare's
-80 [12dicts] [2dicts]: - <n>: healthcares~
-
 40 [3esl] 60 [12dicts] 70 [3of6]: health care <n>
+
+60 [12dicts] [brif] 70 [3of6] 80 [2dicts] 85 [ukacd]: healthcare <n>
+60 [12dicts] [brif]: - <n>: healthcare's
+80 [12dicts] [2dicts]: - <n>: healthcares~
 
 70 [3of6]: health center <n>: health centers
 
@@ -191566,8 +191527,6 @@
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby]: - <n>: -, hippopotamus's, (hippopotamuses' | ~: hippopotami's)
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: - <n>: (hippopotamuses | ~: hippopotami)
 
-70 [+]: hippopotomonstrosesquipedalian
-
 70 [moby]: Hippo Regius <n/upper>
 
 85 [ukacd]: hippuric
@@ -193734,8 +193693,6 @@
 
 80 [moby]: Homeworth <n/place>
 
-50 [+]: homewrecker <n>: homewreckers, homewrecker's
-
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] [ospdadd] 85 [ukacd]: _: homey <n>
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] [ospdadd] 85 [ukacd]: _v: homie <n>
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby]: _: - <n>: homey's
@@ -194499,8 +194456,6 @@
 50 [12dicts] 70 [3of6] [5desk] [moby] 80 [enable]: - <n>: honorifics
 
 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: honorific <aj>
-
-70 [+]: honorificabilitudinitatibus
 
 85 [ukacd]: honorificabilitudinity
 
@@ -195970,8 +195925,6 @@
 
 80 [3of6] [ospdadd]: - <v>: hothoused, hothousing, -
 85 [ukacd]: -hothouse <v>: -, -, hothouses
-
-50 [+]: hotkey <n>: hotkeys
 
 70 [3of6] 85 [ukacd]: hot key <n>: hot keys
 
@@ -203158,8 +203111,6 @@
 
 85 [ukacd]: immersionist <n>: immersionists
 
-50 [+]: immersive
-
 70 [5desk] [moby] 80 [enable] 85 [ukacd]: immesh <m>: immeshed, immeshing, immeshes
 
 70 [moby] 80 [enable] 85 [ukacd]: immethodical
@@ -208500,7 +208451,7 @@
 80 [enable] 85 [ukacd]: infeasibility <n>
 80 [enable]: - <n>: infeasibilities
 
-35 [+] 70 [5desk] [moby] 80 [enable] 85 [ukacd]: infeasible <aj>
+70 [5desk] [moby] 80 [enable] 85 [ukacd]: infeasible <aj>
 
 80 [2dicts] 85 [ukacd]: infeasibleness <n>
 80 [2dicts]: - <n>: infeasiblenesses
@@ -209852,7 +209803,7 @@
 
 70 [moby] 85 [ukacd]: in limine
 
-50 [+] 85 [ukacd]: inline
+85 [ukacd]: inline
 
 40 [3esl] 50 [12dicts] 70 [3of6]: in-line skate <n>: in-line skates
 
@@ -212898,9 +212849,9 @@
 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: internee <n>: internees
 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby]: - <n>: internee's
 
-35 [+] 70 [3of6] 85 [ukacd]: internet <n>
-
 40 [3esl] 50 [12dicts] [name] 70 [3of6] [5desk]: Internet <n/name?>: Internet's
+
+70 [3of6] 85 [ukacd]: internet <n>
 
 50 hacker: -Internet <n/upper?>: Internets
 
@@ -213283,9 +213234,7 @@
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby]: - <n>: intersection's
 35 [12dicts] 40 [3esl] 50 [ukfreq] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: - <n>: intersections
 
-60 [+] 80 [enable] 85 [ukacd]: intersectional
-
-60 [+]: intersectionality
+80 [enable] 85 [ukacd]: intersectional
 
 80 [enable]: intersegment <n>: intersegments
 
@@ -215974,8 +215923,8 @@
 
 70 [moby] 80 [2dicts] 85 [ukacd]: irrelievable
 
-60 [+] 70 [5desk] [moby] 80 [enable] 85 [ukacd]: irreligion <n>
-70 [5desk] [moby] 80 [enable]: - <n>: irreligions-
+70 [5desk] [moby] 80 [enable] 85 [ukacd]: irreligion <n>
+70 [5desk] [moby] 80 [enable]: - <n>: irreligions
 
 80 [enable] 85 [ukacd]: irreligionist <n>: irreligionists
 
@@ -217451,8 +217400,6 @@
 85 [ukacd]: !iterative <n>
 
 70 [5desk] 80 [enable] 85 [ukacd]: iteratively
-
-50 [+]: iterator <n>: iterators
 
 85 [stale] [ukacd]: iterum
 
@@ -222865,8 +222812,6 @@
 
 80 [ospdadd]: kabinett <n>: kabinetts
 
-50 [+]: kaboom
-
 60 [12dicts] [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: kabuki <n>
 80 [12dicts] [5desk] [enable] [moby]: - <n>: kabukis~
 
@@ -225154,8 +225099,6 @@
 50 [name] 60 [12dicts] 70 [5desk]: Key <n/upper>: Key's
 
 80 [moby]: Keyapaha <n/place>
-
-50 [+]: keybinding <n>: keybindings
 
 35 [12dicts] [ukfreq] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: keyboard <n>: keyboards
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby]: - <n>: keyboard's
@@ -242296,10 +242239,9 @@
 50 [12dicts] 70 [3of6] [moby] 85 [ukacd]: look-see <n>
 65 [12dicts] 70 [moby] 85 [ukacd]: - <n>: look-sees-
 
-50 [+] 80 [enable]: lookup <n>
-80 [enable]: - <n>: lookups-
-
 70 [moby] 85 [ukacd]: look up <v>
+
+80 [enable]: lookup <n>: lookups
 
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: loom <n>
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby]: - <n>: loom's
@@ -253818,10 +253760,10 @@
 
 85 [stale]: maximite <n>: maximites
 
-50 [+] [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: A Z: maximization <n>
-50 [+] [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: B: maximisation <n>
-50 [+] [12dicts] 60 [brif] 70 [3of6] [5desk]: A Z: - <n>: maximization's
-50 [+] [12dicts] 60 [brif] 70 [3of6] [5desk]: B: - <n>: maximisation's
+50 [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: A Z: maximization <n>
+50 [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: B: maximisation <n>
+50 [12dicts] 60 [brif] 70 [3of6] [5desk]: A Z: - <n>: maximization's
+50 [12dicts] 60 [brif] 70 [3of6] [5desk]: B: - <n>: maximisation's
 80 [12dicts] [5desk] [enable] 85 [ukacd]: A Z: - <n>: maximizations~
 80 [12dicts] [5desk] [enable] 85 [ukacd]: B: - <n>: maximisations~
 
@@ -255723,8 +255665,7 @@
 
 80 [2dicts]: megaphonically
 
-50 [+] 70 [3of6]: megapixel <n>: megapixels
-50 [+]: - <n>: megapixel's
+70 [3of6]: megapixel <n>: megapixels
 
 80 [ospdadd]: megaplex <n>: megaplexes
 
@@ -262489,10 +262430,10 @@
 
 85 [ukacd]: minimist <n>: minimists
 
-50 [+] 60 [12dicts] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: A Z: minimization <n>
-50 [+] 60 [12dicts] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: B: minimisation <n>
-50 [+] 60 [12dicts] 70 [3of6] [5desk]: A Z: - <n>: minimization's
-50 [+] 60 [12dicts] 70 [3of6] [5desk]: B: - <n>: minimisation's
+60 [12dicts] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: A Z: minimization <n>
+60 [12dicts] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: B: minimisation <n>
+60 [12dicts] 70 [3of6] [5desk]: A Z: - <n>: minimization's
+60 [12dicts] 70 [3of6] [5desk]: B: - <n>: minimisation's
 80 [12dicts] [5desk] [enable] 85 [ukacd]: A Z: - <n>: minimizations~
 80 [12dicts] [5desk] [enable] 85 [ukacd]: B: - <n>: minimisations~
 
@@ -263429,8 +263370,8 @@
 80 [enable] 85 [ukacd]: A DV: miscolor <v>: miscolored, miscoloring, miscolors
 80 [enable] 85 [ukacd]: B D: miscolour <v>: miscoloured, miscolouring, miscolours
 
-50 [+] 70 [5desk] 80 [enable]: miscommunication <n>
-60 [extra] 70 [5desk] 80 [enable]: - <n>: miscommunications-
+60 [extra] 70 [5desk] 80 [enable]: - <n>: miscommunications
+70 [5desk] 80 [enable]: miscommunication <n>
 
 85 [ukacd]: miscomprehend <m>: miscomprehended, miscomprehending, miscomprehends
 
@@ -278949,8 +278890,8 @@
 
 60 US [town]: New Bern <n/place>: New Bern's
 
-35 [+] 50 hacker 60 [12dicts] 70 [3of6] [5desk] 80 [enable] [ospdadd] 85 [ukacd]: newbie <n>: newbies
-35 [+] 50 hacker 60 [12dicts] 70 [3of6] [5desk]: - <n>: newbie's
+50 hacker 60 [12dicts] 70 [3of6] [5desk] 80 [enable] [ospdadd] 85 [ukacd]: newbie <n>: newbies
+50 hacker 60 [12dicts] 70 [3of6] [5desk]: - <n>: newbie's
 
 60 [12dicts] 85 [ukacd]: new blood
 
@@ -281624,12 +281565,12 @@
 
 70 [3of6] 85 [ukacd]: noms de plume
 
-35 [+] 85 [ukacd]: non <n>
-80 [enable] 85 [ukacd]: - <n>: na-
+70 [moby] 85 [ukacd]: non <pre>
 
-35 [+] 85 [ukacd]: non <av>
+80 [enable] 85 [ukacd]: - <n>: na
+85 [ukacd]: -non <n>
 
-70 [moby] 85 [ukacd]: !non <pre>
+85 [ukacd]: non <av>
 
 50 [names] 70 [5desk] [moby] 85 [ukacd]: Nona <n/person>
 50 [names] 70 [5desk] [moby]: - <n/person>: Nona's
@@ -293478,10 +293419,10 @@
 
 35 [ukfreq] 60 [12dicts] 70 [5desk] 80 [enable] 85 [ukacd]: A Z: optimization <n>
 35 [ukfreq] 60 [12dicts] 70 [5desk] 80 [enable] 85 [ukacd]: B: optimisation <n>
-50 [+] 60 [12dicts] 70 [5desk] 80 [enable] 85 [ukacd]: A Z: - <n>: optimizations
-50 [+] 60 [12dicts] 70 [5desk] 80 [enable] 85 [ukacd]: B: - <n>: optimisations
 60 [12dicts] 70 [5desk]: A Z: - <n>: optimization's
 60 [12dicts] 70 [5desk]: B: - <n>: optimisation's
+80 [12dicts] [5desk] [enable] 85 [ukacd]: A Z: - <n>: optimizations~
+80 [12dicts] [5desk] [enable] 85 [ukacd]: B: - <n>: optimisations~
 
 35 [ukfreq] 60 [12dicts] [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: A Z: optimize <v>: optimized, optimizing, -
 35 [ukfreq] 60 [12dicts] [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: B: optimise <v>: optimised, optimising, -
@@ -296908,8 +296849,8 @@
 85 [stale] [ukacd]: outlie <m>: -, outlying, outlies
 85 [stale]: - <m>: outlain, -, -
 
-60 [+] 70 [moby] 80 [enable] 85 [ukacd]: outlier <n>: outliers
-60 [+] 70 [moby]: - <n>: outlier's
+70 [moby] 80 [enable] 85 [ukacd]: outlier <n>: outliers
+70 [moby]: - <n>: outlier's
 
 35 [12dicts] [ukfreq] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: outline <n>: outlines
 
@@ -301769,8 +301710,8 @@
 
 85 [ukacd]: palay <n>: palays
 
-50 [+] 70 [extra] [moby] 80 [enable] 85 [ukacd]: palazzo <n>: (palazzi | -: palazzos) # fixme: palazzos: check if variant
-50 [+] 70 [extra] [moby]: - <n>: -, palazzo's, (palazzi's | -: palazzos')
+70 [extra] [moby] 80 [enable] 85 [ukacd]: palazzo <n>: (palazzi | palazzos) #! unmarked variants: palazzi, palazzos, palazzi's, palazzos'
+70 [extra] [moby]: - <n>: -, palazzo's, (palazzi's | palazzos')
 
 80 [moby]: Palco <n/place>
 
@@ -301824,9 +301765,7 @@
 
 80 [moby]: Palenville <n/place>
 
-60 [+]: paleo
-
-70 [moby]: !paleo <pre>
+70 [moby]: paleo <pre>
 
 80 [2dicts] 85 [ukacd]: A Dv: paleoanthropic
 80 [2dicts] 85 [ukacd]: B D: palaeoanthropic
@@ -313295,8 +313234,7 @@
 
 80 [moby]: Pet. <abbr>
 
-60 [+] 80 [ospdadd]: petabyte <n>: petabytes
-60 [+]: - <n>: petabyte's
+80 [ospdadd]: petabyte <n>: petabytes
 
 80 [moby]: Petaca <n/place>
 
@@ -315016,12 +314954,6 @@
 50 [name]: Phipps <n/name?>: Phipps's
 
 80 [moby]: Phippsburg <n/place>
-
-50 [+]: phish
-
-50 [+]: phished
-
-50 [+]: phisher <n>: phishers, phisher's
 
 50 [+] 70 [3of6]: phishing <n>
 80 [+]: - <n>: phishings~
@@ -322228,8 +322160,6 @@
 
 60 [brif] 70 [3of6] 85 [ukacd]: plughole <n>: plugholes
 
-50 [+]: plugin <n>: plugins, plugin's
-
 70 [3of6]: plug-in <n>: plug-ins
 
 70 [moby] 85 [ukacd]: plug in <v>
@@ -322806,7 +322736,7 @@
 
 85 [ukacd]: pneumonokoniosis
 
-70 [+] [moby] 85 [ukacd]: pneumonoultramicroscopicsilicovolcanoconiosis
+70 [moby] 85 [ukacd]: pneumonoultramicroscopicsilicovolcanoconiosis
 
 80 [enable]: pneumothoraces
 
@@ -324251,7 +324181,7 @@
 80 [enable]: polyamine <n>: polyamines
 
 50 [+] 80 [3of6]: polyamory <n>
-50 [+]: - <n>: polyamories
+80 [+]: - <n>: polyamories~
 
 85 [ukacd]: Polyandria </upper?>
 
@@ -329956,7 +329886,7 @@
 
 70 [3of6] 85 [ukacd]: pre-emptive <aj>
 
-50 [+] 80 [enable]: preemptively
+80 [enable]: preemptively
 
 70 [5desk] 80 [enable]: A: preemptor <n>: preemptors
 70 [5desk] 80 [enable]: B: preaemptor <n>
@@ -343297,12 +343227,12 @@
 
 85 [ukacd]: quo warranto <n>
 
-35 [+] [12dicts] 40 [3esl] 50 [name] 70 [+] [12dicts] [3esl] [3of6] [5desk] [moby] 80 [upper] 85 [ukacd]: A B: Quran <n> # fixme: pos_class originally "upper"
-35 [+] [12dicts] 40 [3esl] 50 [name] 70 [+] [12dicts] [3esl] [3of6] [5desk] [moby] 80 [upper] 85 [ukacd]: A= B=: Koran <n> # fixme: pos_class originally "upper"
-35 [+] [12dicts] 40 [3esl] 50 [name] 70 [+] [12dicts] [3esl] [3of6] [5desk] [moby] 80 [upper] 85 [ukacd]: Av Bv: Qur'an <n> # fixme: pos_class originally "upper?"
-35 [+] [12dicts] 40 [3esl] 50 [name] 70 [+] [12dicts] [3esl] [3of6] [5desk] [moby] [name]: A B: - <n>: Quran's
-35 [+] [12dicts] 40 [3esl] 50 [name] 70 [+] [12dicts] [3esl] [3of6] [5desk] [moby] [name]: A= B=: - <n>: Koran's
-35 [+] [12dicts] 40 [3esl] 50 [name] 70 [+] [12dicts] [3esl] [3of6] [5desk] [moby] [name]: Av Bv: - <n>: Qur'an's
+35 [12dicts] 40 [3esl] 50 [name] 70 [12dicts] [3esl] [3of6] [5desk] [moby] 80 [upper] 85 [ukacd]: A B: Quran <n> # fixme: pos_class originally "upper"
+35 [12dicts] 40 [3esl] 50 [name] 70 [12dicts] [3esl] [3of6] [5desk] [moby] 80 [upper] 85 [ukacd]: A= B=: Koran <n> # fixme: pos_class originally "upper"
+35 [12dicts] 40 [3esl] 50 [name] 70 [12dicts] [3esl] [3of6] [5desk] [moby] 80 [upper] 85 [ukacd]: Av Bv: Qur'an <n> # fixme: pos_class originally "upper?"
+35 [12dicts] 40 [3esl] 50 [name] 70 [12dicts] [3esl] [3of6] [5desk] [moby] [name]: A B: - <n>: Quran's
+35 [12dicts] 40 [3esl] 50 [name] 70 [12dicts] [3esl] [3of6] [5desk] [moby] [name]: A= B=: - <n>: Koran's
+35 [12dicts] 40 [3esl] 50 [name] 70 [12dicts] [3esl] [3of6] [5desk] [moby] [name]: Av Bv: - <n>: Qur'an's
 65 [12dicts] [3esl] 70 [5desk] [moby] 80 [upper]: A B: - <n>: Qurans-
 65 [12dicts] [3esl] 70 [5desk] [moby] 80 [upper]: A= B=: - <n>: Korans-
 65 [12dicts] [3esl] 70 [5desk] [moby] 80 [upper]: Av Bv: - <n>: Qur'ans-
@@ -343313,9 +343243,9 @@
 ## form.  Technically "Qur'an" more correct but that doesn't seam to be
 ## used as much.
 
-60 [+] [12dicts] 70 [+] [12dicts] [3of6] [5desk] 80 [upper] 85 [ukacd]: A B: Quranic <aj> # fixme: pos_class originally "upper?"
-60 [+] [12dicts] 70 [+] [12dicts] [3of6] [5desk] 80 [upper] 85 [ukacd]: A= B=: Koranic <aj> # fixme: pos_class originally "upper"
-60 [+] [12dicts] 70 [+] [12dicts] [3of6] [5desk] 80 [upper] 85 [ukacd]: Av Bv: Qur'anic <aj> # fixme: pos_class originally "upper?"
+60 [12dicts] 70 [12dicts] [3of6] [5desk] 80 [upper] 85 [ukacd]: A B: Quranic <aj> # fixme: pos_class originally "upper?"
+60 [12dicts] 70 [12dicts] [3of6] [5desk] 80 [upper] 85 [ukacd]: A= B=: Koranic <aj> # fixme: pos_class originally "upper"
+60 [12dicts] 70 [12dicts] [3of6] [5desk] 80 [upper] 85 [ukacd]: Av Bv: Qur'anic <aj> # fixme: pos_class originally "upper?"
 
 85 [stale]: qursh <n>: qurshes
 
@@ -348529,7 +348459,7 @@
 
 80 [enable] 85 [ukacd]: recomposition <n>: recompositions
 
-70 [+] 85 [ukacd]: recompress <m>: recompressed, recompressing, recompresses
+85 [ukacd]: recompress <m>: recompressed, recompressing, recompresses
 
 85 [ukacd]: recompression <n>: recompressions
 
@@ -349612,8 +349542,6 @@
 
 80 [enable] 85 [ukacd]: redistributive
 
-50 [+]: redistributor <n>: redistributors
-
 50 [12dicts] 70 [3of6] [5desk] [moby] 80 [enable]: redistrict <v>: redistricted, redistricting, redistricts
 
 60 [12dicts] 70 [5desk] 80 [enable] 85 [ukacd]: redivide <v>: redivided, redividing, redivides
@@ -350355,8 +350283,6 @@
 70 [3of6]: -ref. </abbr?>
 
 60 [12dicts] 70 [5desk] [moby] 80 [enable] 85 [ukacd]: reface <v>: refaced, refacing, refaces
-
-60 [+]: refactor <m>: refactored, refactoring, refactors
 
 85 [stale]: refall <m>: refell, refallen, refalling, refalls
 
@@ -351143,8 +351069,6 @@
 
 85 [ukacd]: regest
 
-60 [+]: regex <n>: regex's
-
 50 hacker: regexp <n>: regexps
 
 40 [3esl] 50 [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: reggae <n>
@@ -351863,8 +351787,7 @@
 
 85 [ukacd]: reinspirit <m>: reinspirited, reinspiriting, reinspirits
 
-50 [+] 80 [enable] 85 [ukacd]: reinstall <v>: reinstalled, reinstalling, -
-80 [enable] 85 [ukacd]: - <v>: -, -, reinstalls-
+80 [enable] 85 [ukacd]: reinstall <v>: reinstalled, reinstalling, reinstalls
 
 80 [enable]: reinstallation <n>: reinstallations
 
@@ -352492,7 +352415,7 @@
 
 70 [3of6] 80 [enable] 85 [ukacd]: relishing <n>
 
-60 [+] 80 [enable]: relist <m>: relisted, relisting, relists
+80 [enable]: relist <m>: relisted, relisting, relists
 
 60 [12dicts] 70 [5desk] 85 [ukacd]: relivable <a>
 
@@ -368210,8 +368133,7 @@
 
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: sandbag <v>: sandbagged, sandbagging, sandbags
 
-60 [+] 80 [enable] 85 [ukacd]: sandbagger <n>: sandbaggers
-60 [+]: - <n>: sandbagger's
+80 [enable] 85 [ukacd]: sandbagger <n>: sandbaggers
 
 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable]: sandbank <n>: sandbanks
 
@@ -370973,7 +370895,7 @@
 
 85 [ukacd]: scamel
 
-50 [+] 80 [3of6] [ospdadd]: scammer <n>: scammers
+80 [3of6] [ospdadd]: scammer <n>: scammers
 
 80 [moby]: Scammon <n/place>
 
@@ -373910,7 +373832,7 @@
 
 85 [ukacd]: screen-saver <n>: screen-savers
 
-50 [+] 70 [3of6]: screenshot <n>: screenshots
+70 [3of6]: screenshot <n>: screenshots
 
 60 [12dicts] 70 [3of6] [moby] 85 [ukacd]: screen test <n>: screen tests
 
@@ -379207,8 +379129,7 @@
 
 60 [12dicts] [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: sequinned <a>
 
-50 [+] 80 [enable]: sequitur <n>
-80 [enable]: - <n>: sequiturs-
+80 [enable]: sequitur <n>: sequiturs
 
 40 [3esl] 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: sequoia <n>: sequoias
 
@@ -381498,8 +381419,8 @@
 
 80 [enable]: shareability <n>: shareabilities
 
-50 [+] 80 [enable]: _: shareable
-50 [+] 80 [enable]: _v: sharable
+80 [enable]: _: shareable
+80 [enable]: _v: sharable
 
 70 [3of6] 85 [ukacd]: share and share alike
 
@@ -384216,7 +384137,7 @@
 
 70 [moby] 80 [3of6] [enable] 85 [ukacd]: shouldst
 
-50 [+] 60 [extra] 70 [3of6]: should've <s>
+60 [extra] 70 [3of6]: should've <s>
 
 35 [12dicts] [ukfreq] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: shout <n>: shouts
 
@@ -391104,8 +391025,7 @@
 50 [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: smartness <n>
 80 [12dicts] [5desk] [enable]: - <n>: smartnesses~
 
-50 [+] 70 [3of6]: smartphone <n>: smartphones
-50 [+]: - <n>: smartphone's
+70 [3of6]: smartphone <n>: smartphones
 
 40 [3esl] 60 [12dicts] [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: smarts <n>
 
@@ -391117,7 +391037,6 @@
 80 [moby]: Smartville <n/place>
 
 50 [+] 80 [3of6]: smartwatch <n>: smartwatches
-50 [+] 60 [+]: - <n>: smartwatch's
 
 80 [enable]: smartweed <n>: smartweeds
 
@@ -396833,8 +396752,6 @@
 
 85 [ukacd]: space-suit <n>: space-suits
 
-60 [+]: spacetime
-
 60 [12dicts] 70 [moby] 85 [ukacd]: space-time <n>
 
 50 [12dicts] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: spacewalk <n>: spacewalks
@@ -397016,7 +396933,6 @@
 70 [extra]: spambot <n>: spambots
 
 50 [+] 70 [3of6] 80 [enable] 85 [ukacd]: spammer <n>: spammers
-50 [+]: - <n>: spammer's
 
 85 [ukacd]: spammy
 
@@ -404811,8 +404727,7 @@
 40 [3esl] 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: stepchild <n>: stepchildren
 40 [3esl] 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby]: - <n>: -, stepchild's, stepchildren's
 
-50 [+] 80 [3of6]: stepdad <n>: stepdads
-50 [+]: - <n>: stepdad's
+80 [3of6]: stepdad <n>: stepdads
 
 70 [moby] 80 [enable] 85 [ukacd]: stepdame <n>: stepdames
 
@@ -404871,8 +404786,7 @@
 
 80 [enable]: steplike
 
-50 [+] 80 [3of6]: stepmom <n>: stepmoms
-50 [+]: - <n>: stepmom's
+80 [3of6]: stepmom <n>: stepmoms
 
 40 [3esl] 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: stepmother <n>: stepmothers
 40 [3esl] 50 [12dicts] 60 [brif] 70 [3of6] [5desk] [moby]: - <n>: stepmother's
@@ -414010,9 +413924,7 @@
 
 80 [enable] 85 [ukacd]: supercalender <m>: supercalendered, supercalendering, supercalenders
 
-70 [+]: supercalifragilistic
-
-70 [+] 85 [ukacd]: supercalifragilisticexpialidocious
+85 [ukacd]: supercalifragilisticexpialidocious
 
 80 [enable]: supercar <n>: supercars
 
@@ -415751,8 +415663,7 @@
 
 80 [moby]: Suring <n/place>
 
-70 [+] 80 [enable] 85 [ukacd]: surjection <n>
-80 [enable] 85 [ukacd]: - <n>: surjections-
+80 [enable] 85 [ukacd]: surjection <n>: surjections
 
 80 [enable]: surjective
 
@@ -415997,8 +415908,8 @@
 
 80 [moby]: surv. <abbr>
 
-70 [+] 80 [enable] 85 [ukacd]: _: surveil <v>: surveilled, surveilling, surveils
-70 [+] 80 [enable] 85 [ukacd]: _V: surveille <v>: -, -, surveilles # fixme: lemma_rank originally "!"
+80 [enable] 85 [ukacd]: _: surveil <v>: surveilled, surveilling, surveils
+80 [enable] 85 [ukacd]: _V: surveille <v>: -, -, surveilles # fixme: lemma_rank originally "!"
 
 ## surveil (surveille):
 ## ODE lists surveille as a variant, m-w doesn't only acknowledges
@@ -425765,18 +425676,14 @@
 
 80 [moby]: tera <pre>
 
-50 [+]: terabit <n>: terabits, terabit's
-
 50 [+] 60 [12dicts] 70 [3of6] [5desk] 80 [enable] [ospdadd]: terabyte <n>: terabytes
-50 [+] 60 [12dicts] 65 [12dicts] 70 [3of6] [5desk]: - <n>: terabyte's-
 
 70 [extra] 80 [ospdadd] 85 [ukacd]: - <n>: teraflops
 80 [ospdadd] 85 [ukacd]: teraflop <n>
 
 70 [5desk] 80 [ospdadd] 85 [ukacd]: teraflops
 
-60 [+] 80 [2dicts]: terahertz <n>
-60 [+]: - <n>: terahertz's
+80 [2dicts]: terahertz <n>
 
 80 [enable] 85 [ukacd]: terai <n>: terais
 
@@ -425789,8 +425696,6 @@
 80 [enable] 85 [ukacd]: teraph
 
 80 [enable] 85 [ukacd]: teraphim
-
-60 [+]: terapixel <n>: terapixels, terapixel's
 
 85 [ukacd]: teras <n>
 
@@ -427168,7 +427073,7 @@
 35 [12dicts] [ukfreq] 40 [3esl] 50 hacker 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: - <n>: texts
 
 35 [] [12dicts] [ukfreq] 40 [3esl] 50 [+] 70 [3of6] [5desk] [moby] 85 [ukacd]: text <v>
-35 [12dicts] 40 [3esl] 50 [+] 70 [3of6] [5desk] [moby]: - <v>: texted, texting, -
+35 [12dicts] 40 [3esl] 70 [3of6] [5desk] [moby]: - <v>: texted, texting, -
 35 [12dicts] 40 [3esl] 70 [3of6] [5desk] [moby] 85 [ukacd]: - <v>: -, -, texts
 
 35 [12dicts] [ukfreq] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: textbook <n>: textbooks
@@ -427530,11 +427435,9 @@
 
 80 [enable]: thatchy <a>: thatchier, thatchiest
 
-60 [+]: that'd <s>
-
 70 [3of6]: that is
 
-60 [+]: that'll <s>
+85 [ukacd]: that'll teach you
 
 85 [ukacd]: thatness
 
@@ -431635,8 +431538,7 @@
 
 40 [3esl] 60 [12dicts] 70 [3of6]: time limit <n>: time limits
 
-50 [+] 70 [3of6] [5desk] 80 [enable]: timeline <n>: timelines
-50 [+] 70 [3of6] [5desk]: - <n>: timeline's
+70 [3of6] [5desk] 80 [enable]: timeline <n>: timelines
 
 50 [12dicts] 60 [brif] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: timeliness <n>
 80 [12dicts] [5desk] [enable]: - <n>: timelinesses~
@@ -431728,10 +431630,6 @@
 50 [name] 70 [moby]: - <n/upper>: Times Square's
 
 70 [3of6]: times table <n>: times tables
-
-50 [+]: timestamp <n>: timestamps, timestamp's
-
-60 [+]: timestamped
 
 70 [moby]: time study <n>
 
@@ -434108,8 +434006,8 @@
 
 85 [ukacd]: toolbag <n>: toolbags
 
-40 [3esl] 50 [+] 70 [3of6] [5desk] 80 [ospdadd] 85 [ukacd]: toolbar <n>: toolbars
-40 [3esl] 50 [+] 70 [3of6] [5desk]: - <n>: toolbar's
+40 [3esl] 70 [3of6] [5desk] 80 [ospdadd] 85 [ukacd]: toolbar <n>: toolbars
+40 [3esl] 70 [3of6] [5desk]: - <n>: toolbar's
 
 50 [ukfreq] 60 [12dicts] 70 [3of6] 80 [enable] 85 [ukacd]: toolbox <n>
 60 [12dicts] 70 [3of6] 80 [enable] 85 [ukacd]: - <n>: toolboxes
@@ -436993,10 +436891,10 @@
 80 [enable] 85 [ukacd]: tranquilness <n>
 80 [enable]: - <n>: tranquilnesses
 
-50 [+] 80 [enable]: trans
-
 50 [12dicts] 70 [moby]: _: trans. <abbr>
 50 [12dicts] 70 [moby]: _~: trans <abbr>
+
+80 [enable]: -trans
 
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: transact <v>: transacted, transacting, transacts
 
@@ -446306,7 +446204,7 @@
 
 80 [ospdadd]: unadded
 
-60 [+] 70 [5desk] 80 [enable] 85 [ukacd]: unaddressed <aj>
+70 [5desk] 80 [enable] 85 [ukacd]: unaddressed <aj>
 
 80 [ospdadd]: unadept
 
@@ -446438,7 +446336,7 @@
 
 85 [ukacd]: unallotted
 
-60 [+] 70 [5desk] 80 [2dicts] 85 [ukacd]: unallowable
+70 [5desk] 80 [2dicts] 85 [ukacd]: unallowable
 
 60 [12dicts] [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: unalloyed <aj>
 
@@ -452109,10 +452007,6 @@
 
 50 [+] 70 [3of6] 80 [2dicts]: uninstall <v>: uninstalled, uninstalling, uninstalls
 
-50 [+]: uninstallable
-
-50 [+]: uninstaller <n>: uninstallers, uninstaller's
-
 60 [12dicts] 70 [5desk] [moby] 80 [enable] 85 [ukacd]: uninstructed <aj>
 
 70 [5desk] 80 [enable] 85 [ukacd]: uninstructive <aj>
@@ -453293,7 +453187,7 @@
 
 60 [brif] 70 [3of6] 85 [ukacd]: unmissable
 
-50 [+] 85 [ukacd]: unmissed
+85 [ukacd]: unmissed
 
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: unmistakable <aj>
 
@@ -453593,7 +453487,7 @@
 60 [12dicts] 80 [enable] 85 [ukacd]: unobtrusiveness <n>
 80 [12dicts] [enable]: - <n>: unobtrusivenesses~
 
-70 [+] 85 [ukacd]: unobvious <aj>
+85 [ukacd]: unobvious <aj>
 
 35 [12dicts] 40 [3esl] 60 [brif] 70 [3of6] [5desk] [moby] 80 [enable] 85 [ukacd]: unoccupied <aj>
 
@@ -457380,7 +457274,7 @@
 
 85 [ukacd]: unwinkingly
 
-60 [+] 80 [enable]: unwinnable
+80 [enable]: unwinnable
 
 85 [ukacd]: unwinnowed
 
@@ -469971,8 +469865,7 @@
 
 35 [ukfreq] 70 [3of6] [5desk] 80 [enable] 85 [ukacd]: wastes
 
-50 [+] 80 [enable]: wastewater <n>
-80 [enable]: - <n>: wastewaters-
+80 [enable]: wastewater <n>: wastewaters
 
 85 [stale]: wasteway <n>: wasteways
 
@@ -471593,8 +471486,6 @@
 50 [+] 50 hacker 60 [brif] 70 [3of6] [5desk]: - <n>: webmaster's
 
 80 [upper]: Webmaster <n/upper?>: Webmasters
-
-50 [+]: webmistress <n>: webmistresses, webmistress's
 
 70 [5desk] 80 [ospdadd]: webpage <n>: webpages
 
@@ -475344,8 +475235,6 @@
 
 80 [upper]: Wiffle <n/upper>: Wiffles-
 
-50 [+]: WiFi <n/upper>
-
 70 [3of6]: Wi-Fi </upper?>
 
 85 [ukacd]: wifie <n>: wifies
@@ -475427,7 +475316,6 @@
 50 [name]: Wii <n/name?>: Wii's
 
 50 [+] 70 [3of6]: wiki <n>: wikis
-50 [+]: - <n>: wiki's
 
 80 [moby]: Wikieup <n/place>
 
@@ -478804,8 +478692,7 @@
 
 60 [12dicts]: work farm
 
-50 [+] 80 [ospdadd]: workflow <n>: workflows
-50 [+]: - <n>: workflow's
+80 [ospdadd]: workflow <n>: workflows
 
 80 [enable] 85 [ukacd]: workfolk <n>: (workfolk | workfolks) #! unmarked variants: workfolk, workfolks
 
@@ -479334,7 +479221,7 @@
 
 70 [3of6]: would rather
 
-40 [3esl] 50 [+] 60 [12dicts] 70 [3of6]: would've <s>
+40 [3esl] 60 [12dicts] 70 [3of6]: would've <s>
 
 85 [ukacd]: Woulfe bottle <n/upper?>: Woulfe bottles
 

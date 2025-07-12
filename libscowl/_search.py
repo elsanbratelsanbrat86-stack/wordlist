@@ -210,12 +210,18 @@ getWords.__signature__ = Signature([
     *(p for p in signature(getWords).parameters.values() if p.kind == Parameter.KEYWORD_ONLY),
 ])
 
-def _filterDB(filterType, conn, orig, *, simplify = (), **args):
+def _filterDB(filterType, conn, orig, *, simplify = (), words = None, **args):
     queryArgs = {p.name: args.pop(p.name, p.default) for p in signature(queryString).parameters.values()}
     whereClause = queryString(**queryArgs).where
     if 'variantsOnly' in args:
         del args['variantsOnly']
         whereClause = f"{whereClause} and group_id in (select group_id from orig.words group by group_id, pos having count(*) > 1)"
+    if words is not None:
+        conn.execute("create temp table words_to_include (word text not null primary key) without rowid")
+        with open(words) as f:
+            conn.executemany("insert or ignore into words_to_include values (?)", ((word.strip(),) for word in f))
+        conn.execute("analyze words_to_include")
+        whereClause = f"{whereClause} and word in (select word from words_to_include)"
     print(whereClause, file=sys.stderr)
     if args:
         raise TypeError("unexpected args: {}".format(', '.join(args.keys())))

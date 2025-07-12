@@ -25,7 +25,7 @@ def createDB(args):
 def exportDB(args):
     conn = libscowl.openDB(args.db)
     clusters = libscowl.importFromDB(conn, dbOrder = args.db_order)
-    libscowl.exportAsText(clusters, conn, sys.stdout, showClusters = args.show_clusters)
+    libscowl.exportAsText(clusters, conn, sys.stdout, showClusters = args.showClusters, showExtraInfo = args.showExtraInfo)
 
 def searchDB(args):
     conn = libscowl.openDB(args.db)
@@ -79,11 +79,11 @@ def printWordList(args):
         prev = w
 
 def filterDB(args):
-    kwargs = {k: v for k,v in args.__dict__.items() if k not in ('db', 'target', 'export', 'func', 'show_clusters')}
+    kwargs = {k: v for k,v in args.__dict__.items() if k not in ('db', 'target', 'export', 'func', 'showClusters', 'showExtraInfo')}
     conn = libscowl.filterDB(orig=args.db, new=getattr(args, 'target', None),  **kwargs)
     if getattr(args, 'export', False):
         clusters = libscowl.importFromDB(conn)
-        libscowl.exportAsText(clusters, conn, sys.stdout, showClusters = getattr(args, 'show_clusters', False))
+        libscowl.exportAsText(clusters, conn, sys.stdout, showClusters = args.showClusters, showExtraInfo = args.showExtraInfo)
     conn.close()
 
 def lst(arg):
@@ -165,7 +165,8 @@ p = addParser('export',
 p.set_defaults(func=exportDB)
 addDbArgument(p)
 def addExportArguments(p):
-    p.add_argument('--show-clusters', action='store_true', default=False)
+    p.add_argument('--show-clusters', action='store_true', default=False, dest='showClusters')
+    p.add_argument('--no-extra-info', action='store_false', default=True, dest='showExtraInfo')
 addExportArguments(p)
 p.add_argument('--db-order', action='store_true', default=False)
 
@@ -267,6 +268,7 @@ g.add_argument('--export', action='store_true',
 del g
 addExportArguments(p)
 addQueryArguments(p, usePositional = False)
+p.add_argument('--words', metavar='<file>')
 p.add_argument('--variants-only', action='store_true', dest='variantsOnly')
 p.add_argument('--simplify', type=lst, metavar='<list>', help="any of: size, category, region, tag")
 

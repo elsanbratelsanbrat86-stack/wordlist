@@ -1,7 +1,85 @@
 #:: merge [+]
 
+50: adware
+
+50: amino <n>
+
+50: amino <aj>
+
+70: antidisestablishmentarian
+
+70: antidisestablishmentarianism <n>: antidisestablishmentarianisms
+
+50: antivirus
+
+50: Apatosaurus </upper?>
+
+50: Asperger <n/upper?>: Asperger's
+
+50: backstory <n>: backstories
+
+50: bazillion <n>: bazillions
+
+50: biomedical <aj>
+
+50: bitcoin <n>: bitcoins, bitcoin's
+
+35: blog <n>: blogs, blog's
+
+35: blog <v>: blogged, blogging, blogs
+
+35: blogger <n>: bloggers, blogger's
+
+50: botnet <n>: botnets, botnet's
+
+50: Brexit </upper?>
+
+50: Brontosaurus </upper?>
+
+50: builtin <aj>
+
+50: caffeinated
+
+50: cardio <n>
+
+60 US 60 CA: chunk <v>: chunked, chunking, chunks
+
+60: chunking <n>
+
+50: cis
+
+50: cisgender
+
+50: clickable
+
+50: clickbait
+
 50: _: commenter <n>: commenters, commenter's
 50: _V: commentor <n>: commentors, commentor's
+
+60: committer <n>: committers
+
+50: coronavirus <n>: coronaviruses, coronavirus's
+
+50: could've <s>
+
+50: COVID </abbr?>
+
+50: cryptocurrency <n>: cryptocurrencies, cryptocurrency's
+
+50: datatype
+
+50: decryption <n>
+
+50: deepfake <n>: deepfakes, deepfake's
+
+60: defibrillation <n>
+
+50: deniability <n>
+
+50: dharma <n>
+
+50: downloadable
 
 50: _: dox <v>: doxed, doxing, doxes
 50: _.: doxx <v>: doxxed, doxxing, doxxes
@@ -9,8 +87,233 @@
 50: _: doxing <n>: doxings
 50: _.: doxxing <n>: doxxings
 
+50: ecotourism <n>
+
+35: email <n>: emails, email's-
+
+35: email <v>: emailed, emailing, emails
+
+60: exabyte <n>: exabytes, exabyte's
+
+50: fandom <n>
+
+70: floccinaucinihilipilification
+
+60: - <n>: functionalities-
+99: functionality <n>
+
 50: gaslight <v>: (gaslighted | .: gaslit), gaslighting, gaslights
+
+50: gazillion <n>: gazillions
+
+50: gigabit <n>: gigabits, gigabit's
+
+50: gigabyte <n>: gigabytes, gigabyte's-
+
+50: gigahertz <n>: (- | gigahertz), gigahertz's-
+
+60: gigajoule <n>: gigajoules, gigajoule's
+
+50: gigapixel <n>: gigapixels, gigapixel's
+
+60: gigawatt <n>: gigawatts, gigawatt's
+
+35: gimme <n>
+
+35: gimme <s>
+
+50: google <v>: googled, googling, googles
+
+35: _: healthcare <n>
+
+70: hippopotomonstrosesquipedalian
+
+50: homewrecker <n>: homewreckers, homewrecker's
+
+70: honorificabilitudinitatibus
+
+50: hotkey <n>: hotkeys
+
+50: immersive
+
+35: infeasible <aj>
 
 50: influencer <n>: influencers, influencer's
 
+50: inline
+
+35: internet <n>
+
+60: intersectional
+
+60: intersectionality
+
+60: irreligion <n>
+
+50: iterator <n>: iterators
+
+50: kaboom
+
+50: keybinding <n>: keybindings
+
+50: login <n>
+
+50: lookup <n>
+
+50: malware <n>
+
+50: maximization <n>
+
+50: megapixel <n>: megapixels, megapixel's
+
 50: metaverse <n>: metaverses, metaverse's
+
+50: minimization <n>
+
+50: miscommunication <n>
+
+35: newbie <n>: newbies, newbie's
+
+35: non <pre>
+
+50: optimization <n>: optimizations
+
+60: outlier <n>: outliers
+
+50: palazzo <n>: (palazzi | -: palazzos)
+
+60: paleo
+
+60: petabyte <n>: petabytes, petabyte's
+
+50: phish
+
+50: phished
+
+50: phisher <n>: phishers, phisher's
+
+50: phishing <n>
+
+50: plugin <n>: plugins, plugin's
+
+70: pneumonoultramicroscopicsilicovolcanoconiosis
+
+50: podcast <n>: podcasts
+
+50: podcast <v>: podcast, podcasting, podcasts
+
+50: podcaster <n>: podcasters, podcaster's
+
+50: polyamory <n>: polyamories
+
+50: preemptively
+
+60: Quranic <aj>
+
+70: recompress <m>: recompressed, recompressing, recompresses
+
+50: redistributor <n>: redistributors
+
+60: refactor <m>: refactored, refactoring, refactors
+
+60: regex <n>: regex's
+
+50: reinstall <v>: reinstalled, reinstalling, reinstalls
+
+60: relist <m>: relisted, relisting, relists
+
+60: sandbagger <n>: sandbaggers, sandbagger's
+
+50: scammer <n>: scammers
+
+50: screenshot <n>: screenshots
+
+50: sequitur <n>
+
+50: shareable
+
+50: should've <s>
+
+50: smartphone <n>: smartphones, smartphone's
+
+50: smartwatch <n>: smartwatches, smartwatch's
+
+60: spacetime <n>
+
+50: spammer <n>: spammers, spammer's
+
+50: spyware <n>
+
+50: stepdad <n>: stepdads, stepdad's
+
+50: stepmom <n>: stepmoms, stepmom's
+
+70: supercalifragilistic
+
+70: supercalifragilisticexpialidocious
+
+70: surjection <n>
+
+70: surveil <v>: surveilled, surveilling, surveils
+
+50: terabit <n>: terabits, terabit's
+
+50: terabyte <n>: terabytes, terabyte's-
+
+60: terahertz <n>: terahertz's
+
+60: terapixel <n>: terapixels, terapixel's
+
+50: text <v>: texted, texting, texts
+
+60: that'd <s>
+
+60: that'll <s>
+
+50: timeline <n>: timelines, timeline's
+
+50: timestamp <n>: timestamps, timestamp's
+
+60: timestamped
+
+50: toolbar <n>: toolbars
+
+50: trans <aj>
+
+60: unaddressed <aj>
+
+60: unallowable
+
+50: uninstall <v>: uninstalled, uninstalling, uninstalls
+
+50: uninstallable
+
+50: uninstaller <n>: uninstallers, uninstaller's
+
+50: unmissed
+
+70: unobvious <aj>
+
+50: unsubscribe <v>: unsubscribed, unsubscribing, unsubscribes
+
+60: unwinnable
+
+50: wastewater <n>
+
+50: webcam <n>: webcams
+
+50: webinar <n>: webinars
+
+50: webmaster <n>: webmasters, webmaster's
+
+50: webmistress <n>: webmistresses, webmistress's
+
+50: widescreen <n>
+
+50: WiFi <n/upper>
+
+50: wiki <n>: wikis, wiki's
+
+50: workflow <n>: workflows, workflow's
+
+50: would've <s>
