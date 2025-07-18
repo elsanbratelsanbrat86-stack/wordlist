@@ -1,0 +1,11 @@
+.PHONY: all clean
+
+all: scowl.db
+
+.DELETE_ON_ERROR:
+scowl.db: scowl.txt
+	rm -f scowl.db
+	./scowl import --db scowl.db < scowl.txt
+
+clean:
+	rm -f scowl.db
