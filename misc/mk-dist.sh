@@ -30,6 +30,3 @@ cat scowl.txt >> "$DEST"/scowl.txt
 cp -a misc/Makefile.dist "$DEST"/Makefile
 
 tar cfa "$DEST".tar.xz "$DEST"
-
-
-

@@ -31,7 +31,7 @@ create table fix_pos (
   new_pos  text not null references poses(pos),
   level int not null,
   -- level 0: no change, the pos is correct for the base_pos
-  -- level 1: change needed after splitting a group in two
+  -- level 1: change needed due to the group being split in two
   -- level 2 - 4: other possible changes
   -- missing entry, pos change not possible
   primary key (base_pos, orig_pos)

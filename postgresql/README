@@ -3,16 +3,22 @@ directory.
 
 Environment variables used by scripts:
 
+  PGHOST/PGPORT/PGUSER/...: used by the psql command
   SQLITE3: sqlite3 command to use
 
 ./import.sh <database> [<typeschema>] <schema> [drop]
 
-Import SCOWL data into PostgreSQL.  <database> is the PostgreSQL database.
-<schema> is the schema to import the data into; if the schema doesn't exist it
-will be created; if 'drop' is specified then the schema will be recreated if
-it exists; otherwise, all tables are truncated.  <typeschema> specifies the
-schema for enum types; if the schema doesn't exists it will be created and
-populated.
+Import SCOWL data into PostgreSQL.
+
+<database> is the PostgreSQL database.
+
+<schema> is the schema to import the data into.  If the schema doesn't exist
+it will be created.  If the schema exists than all tables are truncated.  If
+'drop' is specified first attempt to drop the schema so it can be recreated.
+
+<typeschema> is the schema for enums used by the database.  It defaults to
+<schema> if omitted.  If the schema doesn't exists than it will be created and
+populated.  The 'drop' option will not drop <typeschema>.
 
 The env. var. SCOWL_DB can be used to set the sqlite3 db file, otherwise it
 defaults to '../scowl.db'

@@ -15,10 +15,10 @@ elif [ $# -eq 2 ]; then
     SCHEMA="$2"
 elif [ $# -eq 3 ]; then
     if [ "$3" = drop ]; then
-        DROP_SCHEMA="drop schema if exists $SCHEMA cascade;"
         PGDATABASE="$1"
         TYPESCHEMA="$2"
         SCHEMA="$2"
+        DROP_SCHEMA="drop schema if exists $SCHEMA cascade;"
     else
         PGDATABASE="$1"
         TYPESCHEMA="$2"
@@ -26,10 +26,10 @@ elif [ $# -eq 3 ]; then
     fi
 elif [ $# -eq 4 ]; then
     if [ "$4" = drop ]; then
-        DROP_SCHEMA="drop schema if exists $SCHEMA cascade;"
         PGDATABASE="$1"
         TYPESCHEMA="$2"
         SCHEMA="$3"
+        DROP_SCHEMA="drop schema if exists $SCHEMA cascade;"
     else
         usage
     fi
@@ -59,7 +59,7 @@ EOF
   done
 ) > data.sql
 
-"$PSQL" --no-psqlrc $PGDATABASE <<EOF
+"$PSQL" --echo-all --no-psqlrc $PGDATABASE <<EOF
 SET client_min_messages = warning;
 \set ON_ERROR_STOP true
 begin;

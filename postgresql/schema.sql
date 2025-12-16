@@ -24,6 +24,18 @@ create table base_poses (
   extra_info text
 );
 
+create table fix_pos (
+  base_pos base_pos not null references base_poses(base_pos),
+  orig_pos pos not null references poses(pos),
+  new_pos  pos not null references poses(pos),
+  level int not null,
+  -- level 0: no change, the pos is correct for the base_pos
+  -- level 1: change needed due to the group being split in two
+  -- level 2 - 4: other possible changes
+  -- missing entry, pos change not possible
+  primary key (base_pos, orig_pos)
+);
+
 create table ranks (
   order_num integer not null unique,
   rank_symbol rank_symbol not null primary key,
